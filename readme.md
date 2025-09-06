@@ -1,17 +1,20 @@
-## Point Cloud Retrieval Reproduction Checklist： recall
+## Point Cloud Retrieval Reproduction Checklist： recall@1/@%1， 阈值5m/20m
 （如果你完成了，请readme中编辑，在算法前打勾 ✅；失败或不做请标记 ❌）
 ### 🔹 Learning-based Methods
-- [ ] PointNetVLAD
-- [ ] LPD-Net
-- [ ] MinkLoc3D
-- [ ] TransLoc3D
+- [✅] BEVPLACE++
+- [ ] EgoNN
 - [ ] LCDNet
-- [ ] Other deep learning based methods
+- [ ] Logg3D
+- [ ] PointNetVLAD
+- [ ] SGPR
 
 ### 🔹 Handcrafted Methods
-- [ ] Scan Context
-- [ ] Semantic Scan Context
-- [ ] M2DP (Multi-view 2D Projection)
-- [ ] ESF (Ensemble of Shape Functions)
-- [ ] Structural Fingerprint (ours)
-- [ ] Other handcrafted descriptors
+- [ ] M2DP
+- [ ] BoxGraph
+- [ ] GosMatch
+- [ ] ScanContext
+- [ ] ScanContext++
+- [ ] STD
+- [ ] TripletGraph
+- [ ] TripletLoc
+- [ ] Ring++
