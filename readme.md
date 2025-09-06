@@ -1,5 +1,5 @@
 ## Point Cloud Retrieval Reproduction Checklist
-
+（如果你完成了，请在算法前打勾 ✅；失败或不做请标记 ❌）
 ### 🔹 Learning-based Methods
 - [ ] PointNetVLAD
 - [ ] LPD-Net
