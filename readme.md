@@ -1,4 +1,4 @@
-## Point Cloud Retrieval Reproduction Checklist
+## Point Cloud Retrieval Reproduction Checklist： recall
 （如果你完成了，请readme中编辑，在算法前打勾 ✅；失败或不做请标记 ❌）
 ### 🔹 Learning-based Methods
 - [ ] PointNetVLAD
