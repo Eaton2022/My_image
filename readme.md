@@ -1,7 +1,7 @@
 ## Point Cloud Retrieval Reproduction Checklist： recall@1/@%1， 阈值5m/20m
-（如果你完成了，请readme中编辑，在算法前打勾 ✅；失败或不做请标记 ❌）
+（如果你完成了，请 readme 中编辑，在算法前打勾 `[x]` ✅；失败或不做请标记 ❌）
 ### 🔹 Learning-based Methods
-- [✅] BEVPLACE++
+- [x] BEVPLACE++
 - [ ] EgoNN
 - [ ] LCDNet
 - [ ] Logg3D
